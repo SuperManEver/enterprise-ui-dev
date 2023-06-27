@@ -12,7 +12,8 @@
     "test:accessibility": "vitest accessibility --run",
     "coverage": "vitest --coverage --run",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "format:check": "prettier --check 'src/**/*.ts(x)?'"
   },
   "keywords": [
     "react",
