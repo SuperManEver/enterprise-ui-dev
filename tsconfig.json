@@ -20,7 +20,7 @@
       "$lib/*": ["./src/lib/*"],
       "$components/*": ["./src/components/*"],
       "test/*": ["./test/*"]
-    }
+    },
   },
   "include": [
     "test/**/*.ts",
